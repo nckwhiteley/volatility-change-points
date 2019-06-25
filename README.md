@@ -6,7 +6,7 @@ most recent shifts in their respective volatilities were coincident or closely t
 
 [Get the arXiv posting here](xxx), including a review of the literature on financial time series clustering, mathematical derivations and discussion of results.
 
-[For best rendering of formuale view the Jupyter notebook here...](https://nbviewer.jupyter.org/github/nckwhiteley/volatility-change-points/blob/master/clustering%20via%20volatility%20change%20points.ipynb)
+[For best rendering of formuale view the Jupyter notebook at nbviewer.jupyter.org](https://nbviewer.jupyter.org/github/nckwhiteley/volatility-change-points/blob/master/clustering%20via%20volatility%20change%20points.ipynb)
 
 
 
