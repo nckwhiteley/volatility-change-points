@@ -6,6 +6,8 @@ most recent shifts in their respective volatilities were coincident or closely t
 
 [Get the arXiv posting here](https://arxiv.org/abs/1906.10372), including a review of the literature on financial time series clustering, mathematical derivations and discussion of results.
 
+You may need to download the notebook or use NBviewer to render all equations.
+
 
 
 
